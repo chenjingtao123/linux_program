@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/chenjt/CLionProjects/test/apue.h
+sys/types.h
+-
+sys/stat.h
+-
+sys/termios.h
+-
+sys/ioctl.h
+-
+stdio.h
+-
+stdlib.h
+-
+stddef.h
+-
+string.h
+-
+unistd.h
+-
+signal.h
+-
+
+/home/chenjt/CLionProjects/test/main.cpp
+apue.h
+/home/chenjt/CLionProjects/test/apue.h
+iostream
+-
+fcntl.h
+-
+
+/home/chenjt/CLionProjects/test/write.cpp
+apue.h
+/home/chenjt/CLionProjects/test/apue.h
+
