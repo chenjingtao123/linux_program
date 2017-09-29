@@ -15,6 +15,8 @@ void mysleep(int seconds)
 void threadFunc()
 {
   printf("tid=%d\n", muduo::CurrentThread::tid());
+
+  printf("hello world! \n");
 }
 
 void threadFunc2(int x)
@@ -50,43 +52,59 @@ class Foo
   double x_;
 };
 
+void* hello(void* arg){
+  std::string* ss= static_cast<std::string*>(arg);
+  printf("I AM %s \n",ss->c_str());
+  return  NULL;
+}
+
 int main()
 {
-  printf("pid=%d, tid=%d\n", ::getpid(), muduo::CurrentThread::tid());
+//  printf("pid=%d, tid=%d\n", ::getpid(), muduo::CurrentThread::tid());
+//
+//  muduo::Thread t1(threadFunc);
+//  t1.start();
+//
+//  printf("main tid");
 
-  muduo::Thread t1(threadFunc);
-  t1.start();
-  printf("t1.tid=%d\n", t1.tid());
-  t1.join();
-
-  muduo::Thread t2(boost::bind(threadFunc2, 42),
-                   "thread for free function with argument");
-  t2.start();
-  printf("t2.tid=%d\n", t2.tid());
-  t2.join();
-
-  Foo foo(87.53);
-  muduo::Thread t3(boost::bind(&Foo::memberFunc, &foo),
-                   "thread for member function without argument");
-  t3.start();
-  t3.join();
-
-  muduo::Thread t4(boost::bind(&Foo::memberFunc2, boost::ref(foo), std::string("Shuo Chen")));
-  t4.start();
-  t4.join();
-
-  {
-    muduo::Thread t5(threadFunc3);
-    t5.start();
-    // t5 may destruct eariler than thread creation.
-  }
-  mysleep(2);
-  {
-    muduo::Thread t6(threadFunc3);
-    t6.start();
-    mysleep(2);
-    // t6 destruct later than thread creation.
-  }
-  sleep(2);
-  printf("number of created threads %d\n", muduo::Thread::numCreated());
+    pthread_t pthreadId;
+    std::string ss="chenjt";
+    if(pthread_create(&pthreadId,NULL,hello,&ss)){
+      printf("create thread fails");
+      abort();
+    }
+    usleep(100);
+    printf("end");
+//  printf("t1.tid=%d\n", t1.tid());
+//  t1.join();
+//
+//  muduo::Thread t2(boost::bind(threadFunc2, 42),
+//                   "thread for free function with argument");
+//  t2.start();
+//  printf("t2.tid=%d\n", t2.tid());
+//  t2.join();
+//  Foo foo(87.53);
+//  muduo::Thread t3(boost::bind(&Foo::memberFunc, &foo),
+//                   "thread for member function without argument");
+//  t3.start();
+//  t3.join();
+//
+//  muduo::Thread t4(boost::bind(&Foo::memberFunc2, boost::ref(foo), std::string("Shuo Chen")));
+//  t4.start();
+//  t4.join();
+//
+//  {
+//    muduo::Thread t5(threadFunc3);
+//    t5.start();
+//    // t5 may destruct eariler than thread creation.
+//  }
+//  mysleep(2);
+//  {
+//    muduo::Thread t6(threadFunc3);
+//    t6.start();
+//    mysleep(2);
+//    // t6 destruct later than thread creation.
+//  }
+//  sleep(2);
+//  printf("number of created threads %d\n", muduo::Thread::numCreated());
 }

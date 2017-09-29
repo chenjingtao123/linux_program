@@ -2,163 +2,163 @@
 <project version="4">
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" buildAllGenerated="true">
     <generated>
-      <config projectName="muduo" targetName="muduo_pubsub" />
-      <config projectName="muduo" targetName="protobuf_codec_all" />
-      <config projectName="muduo" targetName="blockingqueue_cpp11_test" />
-      <config projectName="muduo" targetName="eventloop_unittest" />
-      <config projectName="muduo" targetName="wordcount_hasher" />
-      <config projectName="muduo" targetName="sub" />
-      <config projectName="muduo" targetName="protobuf_codec_test" />
-      <config projectName="muduo" targetName="muduo_http" />
-      <config projectName="muduo" targetName="multiplex_demux" />
-      <config projectName="muduo" targetName="netty_uptime" />
-      <config projectName="muduo" targetName="protobuf_client" />
-      <config projectName="muduo" targetName="asio_chat_server_threaded_highperformance" />
-      <config projectName="muduo" targetName="protobuf_rpc_all" />
-      <config projectName="muduo" targetName="muduo_net" />
-      <config projectName="muduo" targetName="muduo_protorpc" />
-      <config projectName="muduo" targetName="muduo_protobuf_codec_cpp11" />
-      <config projectName="muduo" targetName="timezone_unittest" />
-      <config projectName="muduo" targetName="asio_tutorial_timer3" />
-      <config projectName="muduo" targetName="filetransfer_download" />
-      <config projectName="muduo" targetName="threadlocalsingleton_test" />
-      <config projectName="muduo" targetName="asio_tutorial_timer4" />
-      <config projectName="muduo" targetName="asio_tutorial_timer2" />
-      <config projectName="muduo" targetName="mrediscli" />
-      <config projectName="muduo" targetName="asio_tutorial_timer5" />
-      <config projectName="muduo" targetName="exception_test" />
-      <config projectName="muduo" targetName="asio_tutorial_timer6" />
-      <config projectName="muduo" targetName="pingpong_bench" />
-      <config projectName="muduo" targetName="muduo_net_cpp11" />
-      <config projectName="muduo" targetName="sudoku_client_pipeline" />
-      <config projectName="muduo" targetName="buffer_cpp11_unittest" />
-      <config projectName="muduo" targetName="sudoku_solver_threadpool" />
-      <config projectName="muduo" targetName="muduo_base_cpp11" />
-      <config projectName="muduo" targetName="netty_echo_client" />
-      <config projectName="muduo" targetName="memcached_footprint" />
       <config projectName="muduo" targetName="protobuf_dispatcher_lite_test" />
-      <config projectName="muduo" targetName="inspector_test" />
-      <config projectName="muduo" targetName="ace_logging_client" />
-      <config projectName="muduo" targetName="netty_discard_server" />
-      <config projectName="muduo" targetName="protobuf_rpc_resolver_server" />
-      <config projectName="muduo" targetName="simple_allinone" />
-      <config projectName="muduo" targetName="zeromq_remote_lat" />
-      <config projectName="muduo" targetName="date_unittest" />
-      <config projectName="muduo" targetName="zeromq_local_lat" />
-      <config projectName="muduo" targetName="blockingqueue_bench" />
-      <config projectName="muduo" targetName="mcurl" />
-      <config projectName="muduo" targetName="procmon" />
-      <config projectName="muduo" targetName="fork_test" />
-      <config projectName="muduo" targetName="protobuf_rpc_resolver_client" />
-      <config projectName="muduo" targetName="asio_chat_server" />
-      <config projectName="muduo" targetName="wordcount_receiver" />
-      <config projectName="muduo" targetName="protobuf_rpc_balancer" />
-      <config projectName="muduo" targetName="netty_echo_server" />
-      <config projectName="muduo" targetName="plot_test" />
-      <config projectName="muduo" targetName="simple_chargen" />
-      <config projectName="muduo" targetName="multiplex_server_simple" />
-      <config projectName="muduo" targetName="logstream_bench" />
-      <config projectName="muduo" targetName="protobuf_dispatcher_test" />
-      <config projectName="muduo" targetName="echo_proto" />
-      <config projectName="muduo" targetName="protobuf_rpc_wire_test" />
-      <config projectName="muduo" targetName="balancer" />
-      <config projectName="muduo" targetName="threadpool_test" />
-      <config projectName="muduo" targetName="processinfo_test" />
-      <config projectName="muduo" targetName="curl_download" />
-      <config projectName="muduo" targetName="protobuf_rpc_balancer_raw" />
-      <config projectName="muduo" targetName="pingpong_client" />
-      <config projectName="muduo" targetName="timestamp_unittest" />
-      <config projectName="muduo" targetName="threadlocal_test" />
-      <config projectName="muduo" targetName="channel_test" />
-      <config projectName="muduo" targetName="asio_chat_server_threaded" />
-      <config projectName="muduo" targetName="protobuf_rpc_sudoku_server" />
-      <config projectName="muduo" targetName="buffer_unittest" />
-      <config projectName="muduo" targetName="asio_chat_loadtest" />
-      <config projectName="muduo" targetName="inetaddress_unittest" />
-      <config projectName="muduo" targetName="zlibstream_unittest" />
-      <config projectName="muduo" targetName="roundtrip" />
       <config projectName="muduo" targetName="simple_timeclient" />
-      <config projectName="muduo" targetName="roundtrip_udp" />
-      <config projectName="muduo" targetName="maxconnection_echo" />
-      <config projectName="muduo" targetName="sudoku_solver_multiloop" />
-      <config projectName="muduo" targetName="asynclogging_test" />
-      <config projectName="muduo" targetName="sudoku_proto" />
-      <config projectName="muduo" targetName="protobuf_server" />
-      <config projectName="muduo" targetName="asio_chat_server_threaded_efficient" />
-      <config projectName="muduo" targetName="thread_bench" />
-      <config projectName="muduo" targetName="protobuf_rpc_sudoku_client" />
-      <config projectName="muduo" targetName="filetransfer_download3" />
-      <config projectName="muduo" targetName="filetransfer_download2" />
-      <config projectName="muduo" targetName="logging_test" />
-      <config projectName="muduo" targetName="protobuf_rpc_echo_server" />
-      <config projectName="muduo" targetName="pingpong_server" />
-      <config projectName="muduo" targetName="socks4a" />
-      <config projectName="muduo" targetName="cdns" />
-      <config projectName="muduo" targetName="muduo_thrift" />
-      <config projectName="muduo" targetName="simple_discard" />
-      <config projectName="muduo" targetName="twisted_finger03" />
-      <config projectName="muduo" targetName="twisted_finger02" />
-      <config projectName="muduo" targetName="twisted_finger01" />
-      <config projectName="muduo" targetName="ace_logging_proto" />
-      <config projectName="muduo" targetName="thread_test" />
-      <config projectName="muduo" targetName="muduo_base" />
-      <config projectName="muduo" targetName="simple_time" />
-      <config projectName="muduo" targetName="muduo_protorpc_wire_cpp11" />
-      <config projectName="muduo" targetName="query_proto" />
-      <config projectName="muduo" targetName="sudoku_solver_prod" />
-      <config projectName="muduo" targetName="fastcgi_test" />
-      <config projectName="muduo" targetName="idleconnection_echo" />
-      <config projectName="muduo" targetName="muduo_cdns" />
-      <config projectName="muduo" targetName="resolver_proto" />
-      <config projectName="muduo" targetName="sudoku_solver_basic" />
-      <config projectName="muduo" targetName="boundedblockingqueue_test" />
-      <config projectName="muduo" targetName="multiplex_server" />
-      <config projectName="muduo" targetName="simple_chargenclient" />
+      <config projectName="muduo" targetName="exception_test" />
+      <config projectName="muduo" targetName="netty_discard_client" />
+      <config projectName="muduo" targetName="eventloopthreadpool_unittest" />
       <config projectName="muduo" targetName="twisted_finger07" />
-      <config projectName="muduo" targetName="twisted_finger06" />
-      <config projectName="muduo" targetName="fileutil_test" />
+      <config projectName="muduo" targetName="muduo_pubsub" />
       <config projectName="muduo" targetName="twisted_finger05" />
       <config projectName="muduo" targetName="twisted_finger04" />
-      <config projectName="muduo" targetName="gzipfile_test" />
-      <config projectName="muduo" targetName="eventloopthread_unittest" />
-      <config projectName="muduo" targetName="idleconnection_echo2" />
-      <config projectName="muduo" targetName="pub" />
-      <config projectName="muduo" targetName="ace_logging_server" />
-      <config projectName="muduo" targetName="logfile_test" />
-      <config projectName="muduo" targetName="sudoku_solver_hybrid" />
-      <config projectName="muduo" targetName="netty_discard_client" />
-      <config projectName="muduo" targetName="sudoku_stat_unittest" />
-      <config projectName="muduo" targetName="blockingqueue_test" />
-      <config projectName="muduo" targetName="dummyload" />
-      <config projectName="muduo" targetName="protobuf_codec" />
-      <config projectName="muduo" targetName="httprequest_unittest" />
-      <config projectName="muduo" targetName="httpserver_test" />
-      <config projectName="muduo" targetName="tcpclient_reg1" />
-      <config projectName="muduo" targetName="tcpclient_reg2" />
-      <config projectName="muduo" targetName="tcpclient_reg3" />
-      <config projectName="muduo" targetName="simple_daytime" />
-      <config projectName="muduo" targetName="eventloopthreadpool_unittest" />
-      <config projectName="muduo" targetName="singleton_threadlocal_test" />
-      <config projectName="muduo" targetName="singleton_test" />
-      <config projectName="muduo" targetName="sudoku_loadtest" />
-      <config projectName="muduo" targetName="shorturl" />
-      <config projectName="muduo" targetName="sudoku_client_batch" />
-      <config projectName="muduo" targetName="logstream_test" />
-      <config projectName="muduo" targetName="timerqueue_unittest" />
-      <config projectName="muduo" targetName="muduo_curl" />
-      <config projectName="muduo" targetName="muduo_protorpc_wire" />
-      <config projectName="muduo" targetName="netty_echo_server2" />
-      <config projectName="muduo" targetName="echoserver_unittest" />
-      <config projectName="muduo" targetName="atomic_unittest" />
-      <config projectName="muduo" targetName="muduo_protobuf_codec" />
-      <config projectName="muduo" targetName="protobuf_rpc_echo_client" />
-      <config projectName="muduo" targetName="simple_echo" />
-      <config projectName="muduo" targetName="tcprelay" />
-      <config projectName="muduo" targetName="mutex_test" />
+      <config projectName="muduo" targetName="netty_echo_client" />
+      <config projectName="muduo" targetName="asio_chat_server" />
+      <config projectName="muduo" targetName="twisted_finger01" />
+      <config projectName="muduo" targetName="sub" />
+      <config projectName="muduo" targetName="zlibstream_unittest" />
+      <config projectName="muduo" targetName="wordcount_hasher" />
+      <config projectName="muduo" targetName="protobuf_codec_all" />
       <config projectName="muduo" targetName="muduo_inspect" />
-      <config projectName="muduo" targetName="hub" />
-      <config projectName="muduo" targetName="echoclient_unittest" />
+      <config projectName="muduo" targetName="sudoku_stat_unittest" />
+      <config projectName="muduo" targetName="simple_chargen" />
+      <config projectName="muduo" targetName="filetransfer_download3" />
+      <config projectName="muduo" targetName="filetransfer_download2" />
+      <config projectName="muduo" targetName="dummyload" />
+      <config projectName="muduo" targetName="blockingqueue_test" />
+      <config projectName="muduo" targetName="thread_test" />
+      <config projectName="muduo" targetName="query_proto" />
+      <config projectName="muduo" targetName="idleconnection_echo" />
+      <config projectName="muduo" targetName="multiplex_server_simple" />
+      <config projectName="muduo" targetName="tcprelay" />
+      <config projectName="muduo" targetName="protobuf_codec_test" />
+      <config projectName="muduo" targetName="singleton_test" />
+      <config projectName="muduo" targetName="eventloopthread_unittest" />
+      <config projectName="muduo" targetName="muduo_protobuf_codec" />
+      <config projectName="muduo" targetName="zeromq_remote_lat" />
       <config projectName="muduo" targetName="asio_chat_client" />
+      <config projectName="muduo" targetName="logfile_test" />
+      <config projectName="muduo" targetName="logstream_bench" />
+      <config projectName="muduo" targetName="protobuf_dispatcher_test" />
+      <config projectName="muduo" targetName="httprequest_unittest" />
+      <config projectName="muduo" targetName="eventloop_unittest" />
+      <config projectName="muduo" targetName="buffer_cpp11_unittest" />
+      <config projectName="muduo" targetName="tcpclient_reg2" />
+      <config projectName="muduo" targetName="blockingqueue_bench" />
+      <config projectName="muduo" targetName="protobuf_rpc_wire_test" />
+      <config projectName="muduo" targetName="threadlocalsingleton_test" />
+      <config projectName="muduo" targetName="plot_test" />
+      <config projectName="muduo" targetName="netty_uptime" />
+      <config projectName="muduo" targetName="asio_tutorial_timer6" />
+      <config projectName="muduo" targetName="asio_tutorial_timer5" />
+      <config projectName="muduo" targetName="asio_tutorial_timer4" />
+      <config projectName="muduo" targetName="asio_tutorial_timer3" />
+      <config projectName="muduo" targetName="asio_tutorial_timer2" />
+      <config projectName="muduo" targetName="twisted_finger02" />
+      <config projectName="muduo" targetName="date_unittest" />
+      <config projectName="muduo" targetName="sudoku_solver_prod" />
+      <config projectName="muduo" targetName="muduo_protorpc_wire_cpp11" />
+      <config projectName="muduo" targetName="procmon" />
+      <config projectName="muduo" targetName="protobuf_codec" />
+      <config projectName="muduo" targetName="timestamp_unittest" />
+      <config projectName="muduo" targetName="thread_bench" />
+      <config projectName="muduo" targetName="logstream_test" />
+      <config projectName="muduo" targetName="sudoku_client_batch" />
+      <config projectName="muduo" targetName="simple_echo" />
+      <config projectName="muduo" targetName="resolver_proto" />
+      <config projectName="muduo" targetName="asio_chat_loadtest" />
+      <config projectName="muduo" targetName="processinfo_test" />
+      <config projectName="muduo" targetName="ace_logging_client" />
+      <config projectName="muduo" targetName="timezone_unittest" />
+      <config projectName="muduo" targetName="zeromq_local_lat" />
+      <config projectName="muduo" targetName="sudoku_solver_hybrid" />
+      <config projectName="muduo" targetName="simple_chargenclient" />
+      <config projectName="muduo" targetName="pingpong_server" />
+      <config projectName="muduo" targetName="timerqueue_unittest" />
+      <config projectName="muduo" targetName="buffer_unittest" />
+      <config projectName="muduo" targetName="asynclogging_test" />
+      <config projectName="muduo" targetName="threadpool_test" />
+      <config projectName="muduo" targetName="muduo_protobuf_codec_cpp11" />
+      <config projectName="muduo" targetName="fastcgi_test" />
+      <config projectName="muduo" targetName="pingpong_bench" />
+      <config projectName="muduo" targetName="protobuf_rpc_all" />
+      <config projectName="muduo" targetName="mrediscli" />
+      <config projectName="muduo" targetName="protobuf_rpc_resolver_server" />
+      <config projectName="muduo" targetName="singleton_threadlocal_test" />
+      <config projectName="muduo" targetName="asio_chat_server_threaded_highperformance" />
+      <config projectName="muduo" targetName="tcpclient_reg1" />
+      <config projectName="muduo" targetName="twisted_finger03" />
+      <config projectName="muduo" targetName="twisted_finger06" />
+      <config projectName="muduo" targetName="mutex_test" />
+      <config projectName="muduo" targetName="asio_chat_server_threaded_efficient" />
+      <config projectName="muduo" targetName="wordcount_receiver" />
+      <config projectName="muduo" targetName="echoclient_unittest" />
+      <config projectName="muduo" targetName="muduo_net_cpp11" />
+      <config projectName="muduo" targetName="sudoku_proto" />
+      <config projectName="muduo" targetName="atomic_unittest" />
+      <config projectName="muduo" targetName="roundtrip_udp" />
+      <config projectName="muduo" targetName="balancer" />
+      <config projectName="muduo" targetName="filetransfer_download" />
+      <config projectName="muduo" targetName="muduo_http" />
+      <config projectName="muduo" targetName="protobuf_rpc_sudoku_server" />
+      <config projectName="muduo" targetName="sudoku_solver_basic" />
+      <config projectName="muduo" targetName="muduo_cdns" />
+      <config projectName="muduo" targetName="boundedblockingqueue_test" />
+      <config projectName="muduo" targetName="muduo_protorpc_wire" />
+      <config projectName="muduo" targetName="ace_logging_server" />
+      <config projectName="muduo" targetName="simple_time" />
+      <config projectName="muduo" targetName="sudoku_solver_multiloop" />
+      <config projectName="muduo" targetName="simple_daytime" />
+      <config projectName="muduo" targetName="protobuf_server" />
+      <config projectName="muduo" targetName="protobuf_rpc_echo_server" />
+      <config projectName="muduo" targetName="protobuf_rpc_sudoku_client" />
+      <config projectName="muduo" targetName="muduo_protorpc" />
+      <config projectName="muduo" targetName="memcached_footprint" />
+      <config projectName="muduo" targetName="hub" />
+      <config projectName="muduo" targetName="netty_discard_server" />
+      <config projectName="muduo" targetName="roundtrip" />
+      <config projectName="muduo" targetName="blockingqueue_cpp11_test" />
+      <config projectName="muduo" targetName="pingpong_client" />
+      <config projectName="muduo" targetName="netty_echo_server" />
+      <config projectName="muduo" targetName="fork_test" />
+      <config projectName="muduo" targetName="ace_logging_proto" />
+      <config projectName="muduo" targetName="protobuf_rpc_balancer" />
+      <config projectName="muduo" targetName="tcpclient_reg3" />
+      <config projectName="muduo" targetName="netty_echo_server2" />
+      <config projectName="muduo" targetName="socks4a" />
+      <config projectName="muduo" targetName="protobuf_rpc_echo_client" />
+      <config projectName="muduo" targetName="fileutil_test" />
+      <config projectName="muduo" targetName="httpserver_test" />
+      <config projectName="muduo" targetName="pub" />
+      <config projectName="muduo" targetName="inspector_test" />
+      <config projectName="muduo" targetName="protobuf_rpc_resolver_client" />
+      <config projectName="muduo" targetName="gzipfile_test" />
+      <config projectName="muduo" targetName="simple_discard" />
+      <config projectName="muduo" targetName="echo_proto" />
+      <config projectName="muduo" targetName="multiplex_server" />
+      <config projectName="muduo" targetName="curl_download" />
+      <config projectName="muduo" targetName="muduo_net" />
+      <config projectName="muduo" targetName="mcurl" />
+      <config projectName="muduo" targetName="threadlocal_test" />
+      <config projectName="muduo" targetName="sudoku_solver_threadpool" />
+      <config projectName="muduo" targetName="protobuf_rpc_balancer_raw" />
+      <config projectName="muduo" targetName="shorturl" />
+      <config projectName="muduo" targetName="inetaddress_unittest" />
+      <config projectName="muduo" targetName="simple_allinone" />
+      <config projectName="muduo" targetName="muduo_curl" />
+      <config projectName="muduo" targetName="sudoku_loadtest" />
+      <config projectName="muduo" targetName="logging_test" />
+      <config projectName="muduo" targetName="muduo_base_cpp11" />
+      <config projectName="muduo" targetName="asio_chat_server_threaded" />
+      <config projectName="muduo" targetName="cdns" />
+      <config projectName="muduo" targetName="echoserver_unittest" />
+      <config projectName="muduo" targetName="idleconnection_echo2" />
+      <config projectName="muduo" targetName="multiplex_demux" />
+      <config projectName="muduo" targetName="sudoku_client_pipeline" />
+      <config projectName="muduo" targetName="protobuf_client" />
+      <config projectName="muduo" targetName="muduo_thrift" />
+      <config projectName="muduo" targetName="maxconnection_echo" />
+      <config projectName="muduo" targetName="muduo_base" />
+      <config projectName="muduo" targetName="channel_test" />
     </generated>
   </component>
   <component name="CMakeSettings">
@@ -167,11 +167,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ade97acc-eed7-40cc-80b1-094705ca7164" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/contrib/thrift/CMakeLists.txt" afterPath="$PROJECT_DIR$/contrib/thrift/CMakeLists.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/muduo/base/Thread.cc" afterPath="$PROJECT_DIR$/muduo/base/Thread.cc" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/muduo/base/tests/Thread_test.cc" afterPath="$PROJECT_DIR$/muduo/base/tests/Thread_test.cc" />
-    </list>
+    <list default="true" id="8376ec33-d94f-47eb-be87-8e18b830137e" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -185,12 +181,12 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="Thread_test.cc" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/muduo/base/tests/Thread_test.cc">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="297">
-              <caret line="58" column="16" lean-forward="true" selection-start-line="58" selection-start-column="16" selection-end-line="58" selection-end-column="16" />
+            <state relative-caret-position="1035">
+              <caret line="69" column="24" lean-forward="false" selection-start-line="69" selection-start-column="24" selection-end-line="69" selection-end-column="24" />
               <folding>
                 <element signature="e#0#30#0" expanded="true" />
               </folding>
@@ -198,21 +194,95 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CurrentThread.h" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/muduo/base/CurrentThread.h">
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="25" column="8" lean-forward="false" selection-start-line="25" selection-start-column="8" selection-end-line="25" selection-end-column="8" />
+            <state relative-caret-position="45">
+              <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Thread.cc" pinned="false" current-in-tab="true">
+      <file leaf-file-name="stringfwd.h" pinned="false" current-in-tab="false">
+        <entry file="file:///usr/include/c++/4.4/bits/stringfwd.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="825">
+              <caret line="55" column="32" lean-forward="false" selection-start-line="55" selection-start-column="32" selection-end-line="55" selection-end-column="32" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="unistd.h" pinned="false" current-in-tab="false">
+        <entry file="file:///usr/include/unistd.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="6900">
+              <caret line="460" column="11" lean-forward="false" selection-start-line="460" selection-start-column="11" selection-end-line="460" selection-end-column="11" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Thread.h" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/muduo/base/Thread.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="23" column="35" lean-forward="false" selection-start-line="23" selection-start-column="35" selection-end-line="23" selection-end-column="35" />
+              <folding>
+                <element signature="e#652#713#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sched.h" pinned="false" current-in-tab="false">
+        <entry file="file:///usr/include/sched.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="540">
+              <caret line="36" column="10" lean-forward="false" selection-start-line="36" selection-start-column="10" selection-end-line="36" selection-end-column="10" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="types.h" pinned="false" current-in-tab="false">
+        <entry file="file:///usr/include/x86_64-linux-gnu/bits/types.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2130">
+              <caret line="142" column="24" lean-forward="false" selection-start-line="142" selection-start-column="24" selection-end-line="142" selection-end-column="24" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pthreadtypes.h" pinned="false" current-in-tab="false">
+        <entry file="file:///usr/include/x86_64-linux-gnu/bits/pthreadtypes.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="735">
+              <caret line="49" column="26" lean-forward="false" selection-start-line="49" selection-start-column="26" selection-end-line="49" selection-end-column="26" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Thread.cc" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/muduo/base/Thread.cc">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="346">
-              <caret line="204" column="20" lean-forward="true" selection-start-line="204" selection-start-column="20" selection-end-line="204" selection-end-column="20" />
+            <state relative-caret-position="3120">
+              <caret line="208" column="56" lean-forward="false" selection-start-line="208" selection-start-column="56" selection-end-line="208" selection-end-column="56" />
+              <folding>
+                <element signature="e#160#190#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pthread.h" pinned="false" current-in-tab="false">
+        <entry file="file:///usr/include/pthread.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3990">
+              <caret line="266" column="17" lean-forward="false" selection-start-line="266" selection-start-column="17" selection-end-line="266" selection-end-column="17" />
               <folding />
             </state>
           </provider>
@@ -220,14 +290,11 @@
       </file>
     </leaf>
   </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/muduo/base/Thread.cc" />
         <option value="$PROJECT_DIR$/muduo/base/tests/Thread_test.cc" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -239,10 +306,10 @@
   </component>
   <component name="OCFindUsagesOptions" text="true" ivars="false" properties="true" derivedClasses="false" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="274" />
-    <option name="y" value="510" />
-    <option name="width" value="1400" />
-    <option name="height" value="864" />
+    <option name="x" value="65" />
+    <option name="y" value="24" />
+    <option name="width" value="1833" />
+    <option name="height" value="886" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -277,8 +344,8 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
     <property name="js.eslint.eslintPackage" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunManager" selected="Application.thread_test">
     <configuration default="true" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" PASS_PARENT_ENVS_2="true" PROJECT_NAME="muduo" TARGET_NAME="mrediscli" CONFIG_NAME="Debug" TEST_MODE="SUITE_TEST">
@@ -328,6 +395,12 @@
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.npm" factoryName="npm">
@@ -440,6 +513,10 @@
       <option name="params" value="" />
       <option name="USE_PARAM" value="false" />
       <option name="USE_KEYWORD" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Build All" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" CONFIG_NAME="Debug" EXPLICIT_BUILD_TARGET_NAME="all">
+      <envs />
       <method />
     </configuration>
     <configuration default="false" name="mrediscli" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="muduo" TARGET_NAME="mrediscli" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="muduo" RUN_TARGET_NAME="mrediscli">
@@ -1070,169 +1147,165 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="Build All" type="CMakeRunConfiguration" factoryName="Application" WORKING_DIR="" PASS_PARENT_ENVS_2="true" PROJECT_NAME="muduo" TARGET_NAME="simple_echo" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="muduo" RUN_TARGET_NAME="simple_echo">
-      <envs />
-      <method />
-    </configuration>
     <list size="158">
-      <item index="0" class="java.lang.String" itemvalue="Application.mrediscli" />
-      <item index="1" class="java.lang.String" itemvalue="Application.muduo_thrift" />
-      <item index="2" class="java.lang.String" itemvalue="Application.ace_logging_client" />
-      <item index="3" class="java.lang.String" itemvalue="Application.ace_logging_proto" />
-      <item index="4" class="java.lang.String" itemvalue="Application.ace_logging_server" />
-      <item index="5" class="java.lang.String" itemvalue="Application.asio_chat_client" />
-      <item index="6" class="java.lang.String" itemvalue="Application.asio_chat_loadtest" />
-      <item index="7" class="java.lang.String" itemvalue="Application.asio_chat_server" />
-      <item index="8" class="java.lang.String" itemvalue="Application.asio_chat_server_threaded" />
-      <item index="9" class="java.lang.String" itemvalue="Application.asio_chat_server_threaded_efficient" />
-      <item index="10" class="java.lang.String" itemvalue="Application.asio_chat_server_threaded_highperformance" />
-      <item index="11" class="java.lang.String" itemvalue="Application.asio_tutorial_timer2" />
-      <item index="12" class="java.lang.String" itemvalue="Application.asio_tutorial_timer3" />
-      <item index="13" class="java.lang.String" itemvalue="Application.asio_tutorial_timer4" />
-      <item index="14" class="java.lang.String" itemvalue="Application.asio_tutorial_timer5" />
-      <item index="15" class="java.lang.String" itemvalue="Application.asio_tutorial_timer6" />
-      <item index="16" class="java.lang.String" itemvalue="Application.cdns" />
-      <item index="17" class="java.lang.String" itemvalue="Application.muduo_cdns" />
-      <item index="18" class="java.lang.String" itemvalue="Application.curl_download" />
-      <item index="19" class="java.lang.String" itemvalue="Application.mcurl" />
-      <item index="20" class="java.lang.String" itemvalue="Application.muduo_curl" />
-      <item index="21" class="java.lang.String" itemvalue="Application.fastcgi_test" />
-      <item index="22" class="java.lang.String" itemvalue="Application.filetransfer_download" />
-      <item index="23" class="java.lang.String" itemvalue="Application.filetransfer_download2" />
-      <item index="24" class="java.lang.String" itemvalue="Application.filetransfer_download3" />
-      <item index="25" class="java.lang.String" itemvalue="Application.hub" />
-      <item index="26" class="java.lang.String" itemvalue="Application.muduo_pubsub" />
-      <item index="27" class="java.lang.String" itemvalue="Application.pub" />
-      <item index="28" class="java.lang.String" itemvalue="Application.sub" />
-      <item index="29" class="java.lang.String" itemvalue="Application.idleconnection_echo" />
-      <item index="30" class="java.lang.String" itemvalue="Application.idleconnection_echo2" />
-      <item index="31" class="java.lang.String" itemvalue="Application.maxconnection_echo" />
-      <item index="32" class="java.lang.String" itemvalue="Application.memcached_footprint" />
-      <item index="33" class="java.lang.String" itemvalue="Application.multiplex_demux" />
-      <item index="34" class="java.lang.String" itemvalue="Application.multiplex_server" />
-      <item index="35" class="java.lang.String" itemvalue="Application.multiplex_server_simple" />
-      <item index="36" class="java.lang.String" itemvalue="Application.netty_discard_client" />
-      <item index="37" class="java.lang.String" itemvalue="Application.netty_discard_server" />
-      <item index="38" class="java.lang.String" itemvalue="Application.netty_echo_client" />
-      <item index="39" class="java.lang.String" itemvalue="Application.netty_echo_server" />
-      <item index="40" class="java.lang.String" itemvalue="Application.netty_echo_server2" />
-      <item index="41" class="java.lang.String" itemvalue="Application.netty_uptime" />
-      <item index="42" class="java.lang.String" itemvalue="Application.pingpong_bench" />
-      <item index="43" class="java.lang.String" itemvalue="Application.pingpong_client" />
-      <item index="44" class="java.lang.String" itemvalue="Application.pingpong_server" />
-      <item index="45" class="java.lang.String" itemvalue="Application.dummyload" />
-      <item index="46" class="java.lang.String" itemvalue="Application.plot_test" />
-      <item index="47" class="java.lang.String" itemvalue="Application.procmon" />
-      <item index="48" class="java.lang.String" itemvalue="Application.protobuf_client" />
-      <item index="49" class="java.lang.String" itemvalue="Application.protobuf_codec" />
-      <item index="50" class="java.lang.String" itemvalue="Application.protobuf_codec_all" />
-      <item index="51" class="java.lang.String" itemvalue="Application.protobuf_codec_test" />
-      <item index="52" class="java.lang.String" itemvalue="Application.protobuf_dispatcher_lite_test" />
-      <item index="53" class="java.lang.String" itemvalue="Application.protobuf_dispatcher_test" />
-      <item index="54" class="java.lang.String" itemvalue="Application.protobuf_server" />
-      <item index="55" class="java.lang.String" itemvalue="Application.query_proto" />
-      <item index="56" class="java.lang.String" itemvalue="Application.protobuf_rpc_resolver_client" />
-      <item index="57" class="java.lang.String" itemvalue="Application.protobuf_rpc_resolver_server" />
-      <item index="58" class="java.lang.String" itemvalue="Application.resolver_proto" />
-      <item index="59" class="java.lang.String" itemvalue="Application.protobuf_rpc_all" />
-      <item index="60" class="java.lang.String" itemvalue="Application.protobuf_rpc_sudoku_client" />
-      <item index="61" class="java.lang.String" itemvalue="Application.protobuf_rpc_sudoku_server" />
-      <item index="62" class="java.lang.String" itemvalue="Application.sudoku_proto" />
-      <item index="63" class="java.lang.String" itemvalue="Application.protobuf_rpc_balancer" />
-      <item index="64" class="java.lang.String" itemvalue="Application.protobuf_rpc_balancer_raw" />
-      <item index="65" class="java.lang.String" itemvalue="Application.echo_proto" />
-      <item index="66" class="java.lang.String" itemvalue="Application.protobuf_rpc_echo_client" />
-      <item index="67" class="java.lang.String" itemvalue="Application.protobuf_rpc_echo_server" />
-      <item index="68" class="java.lang.String" itemvalue="Application.roundtrip" />
-      <item index="69" class="java.lang.String" itemvalue="Application.roundtrip_udp" />
-      <item index="70" class="java.lang.String" itemvalue="Application.shorturl" />
-      <item index="71" class="java.lang.String" itemvalue="Application.simple_allinone" />
-      <item index="72" class="java.lang.String" itemvalue="Application.simple_chargen" />
-      <item index="73" class="java.lang.String" itemvalue="Application.simple_chargenclient" />
-      <item index="74" class="java.lang.String" itemvalue="Application.simple_daytime" />
-      <item index="75" class="java.lang.String" itemvalue="Application.simple_discard" />
-      <item index="76" class="java.lang.String" itemvalue="Application.simple_echo" />
-      <item index="77" class="java.lang.String" itemvalue="Application.simple_time" />
-      <item index="78" class="java.lang.String" itemvalue="Application.simple_timeclient" />
-      <item index="79" class="java.lang.String" itemvalue="Application.balancer" />
-      <item index="80" class="java.lang.String" itemvalue="Application.socks4a" />
-      <item index="81" class="java.lang.String" itemvalue="Application.tcprelay" />
-      <item index="82" class="java.lang.String" itemvalue="Application.sudoku_client_batch" />
-      <item index="83" class="java.lang.String" itemvalue="Application.sudoku_client_pipeline" />
-      <item index="84" class="java.lang.String" itemvalue="Application.sudoku_loadtest" />
-      <item index="85" class="java.lang.String" itemvalue="Application.sudoku_solver_basic" />
-      <item index="86" class="java.lang.String" itemvalue="Application.sudoku_solver_hybrid" />
-      <item index="87" class="java.lang.String" itemvalue="Application.sudoku_solver_multiloop" />
-      <item index="88" class="java.lang.String" itemvalue="Application.sudoku_solver_prod" />
-      <item index="89" class="java.lang.String" itemvalue="Application.sudoku_solver_threadpool" />
-      <item index="90" class="java.lang.String" itemvalue="Application.sudoku_stat_unittest" />
-      <item index="91" class="java.lang.String" itemvalue="Application.twisted_finger01" />
-      <item index="92" class="java.lang.String" itemvalue="Application.twisted_finger02" />
-      <item index="93" class="java.lang.String" itemvalue="Application.twisted_finger03" />
-      <item index="94" class="java.lang.String" itemvalue="Application.twisted_finger04" />
-      <item index="95" class="java.lang.String" itemvalue="Application.twisted_finger05" />
-      <item index="96" class="java.lang.String" itemvalue="Application.twisted_finger06" />
-      <item index="97" class="java.lang.String" itemvalue="Application.twisted_finger07" />
-      <item index="98" class="java.lang.String" itemvalue="Application.wordcount_hasher" />
-      <item index="99" class="java.lang.String" itemvalue="Application.wordcount_receiver" />
-      <item index="100" class="java.lang.String" itemvalue="Application.zeromq_local_lat" />
-      <item index="101" class="java.lang.String" itemvalue="Application.zeromq_remote_lat" />
-      <item index="102" class="java.lang.String" itemvalue="Application.muduo_base" />
-      <item index="103" class="java.lang.String" itemvalue="Application.muduo_base_cpp11" />
-      <item index="104" class="java.lang.String" itemvalue="Application.asynclogging_test" />
-      <item index="105" class="java.lang.String" itemvalue="Application.atomic_unittest" />
-      <item index="106" class="java.lang.String" itemvalue="Application.blockingqueue_bench" />
-      <item index="107" class="java.lang.String" itemvalue="Application.blockingqueue_cpp11_test" />
-      <item index="108" class="java.lang.String" itemvalue="Application.blockingqueue_test" />
-      <item index="109" class="java.lang.String" itemvalue="Application.boundedblockingqueue_test" />
-      <item index="110" class="java.lang.String" itemvalue="Application.date_unittest" />
-      <item index="111" class="java.lang.String" itemvalue="Application.exception_test" />
-      <item index="112" class="java.lang.String" itemvalue="Application.fileutil_test" />
-      <item index="113" class="java.lang.String" itemvalue="Application.fork_test" />
-      <item index="114" class="java.lang.String" itemvalue="Application.gzipfile_test" />
-      <item index="115" class="java.lang.String" itemvalue="Application.logfile_test" />
-      <item index="116" class="java.lang.String" itemvalue="Application.logging_test" />
-      <item index="117" class="java.lang.String" itemvalue="Application.logstream_bench" />
-      <item index="118" class="java.lang.String" itemvalue="Application.logstream_test" />
-      <item index="119" class="java.lang.String" itemvalue="Application.mutex_test" />
-      <item index="120" class="java.lang.String" itemvalue="Application.processinfo_test" />
-      <item index="121" class="java.lang.String" itemvalue="Application.singleton_test" />
-      <item index="122" class="java.lang.String" itemvalue="Application.singleton_threadlocal_test" />
-      <item index="123" class="java.lang.String" itemvalue="Application.thread_bench" />
-      <item index="124" class="java.lang.String" itemvalue="Application.thread_test" />
-      <item index="125" class="java.lang.String" itemvalue="Application.threadlocal_test" />
-      <item index="126" class="java.lang.String" itemvalue="Application.threadlocalsingleton_test" />
-      <item index="127" class="java.lang.String" itemvalue="Application.threadpool_test" />
-      <item index="128" class="java.lang.String" itemvalue="Application.timestamp_unittest" />
-      <item index="129" class="java.lang.String" itemvalue="Application.timezone_unittest" />
-      <item index="130" class="java.lang.String" itemvalue="Application.muduo_net" />
-      <item index="131" class="java.lang.String" itemvalue="Application.muduo_net_cpp11" />
-      <item index="132" class="java.lang.String" itemvalue="Application.httprequest_unittest" />
-      <item index="133" class="java.lang.String" itemvalue="Application.httpserver_test" />
-      <item index="134" class="java.lang.String" itemvalue="Application.muduo_http" />
-      <item index="135" class="java.lang.String" itemvalue="Application.inspector_test" />
-      <item index="136" class="java.lang.String" itemvalue="Application.muduo_inspect" />
-      <item index="137" class="java.lang.String" itemvalue="Application.muduo_protobuf_codec" />
-      <item index="138" class="java.lang.String" itemvalue="Application.muduo_protobuf_codec_cpp11" />
-      <item index="139" class="java.lang.String" itemvalue="Application.muduo_protorpc" />
-      <item index="140" class="java.lang.String" itemvalue="Application.muduo_protorpc_wire" />
-      <item index="141" class="java.lang.String" itemvalue="Application.muduo_protorpc_wire_cpp11" />
-      <item index="142" class="java.lang.String" itemvalue="Application.protobuf_rpc_wire_test" />
-      <item index="143" class="java.lang.String" itemvalue="Application.buffer_cpp11_unittest" />
-      <item index="144" class="java.lang.String" itemvalue="Application.buffer_unittest" />
-      <item index="145" class="java.lang.String" itemvalue="Application.channel_test" />
-      <item index="146" class="java.lang.String" itemvalue="Application.echoclient_unittest" />
-      <item index="147" class="java.lang.String" itemvalue="Application.echoserver_unittest" />
-      <item index="148" class="java.lang.String" itemvalue="Application.eventloop_unittest" />
-      <item index="149" class="java.lang.String" itemvalue="Application.eventloopthread_unittest" />
-      <item index="150" class="java.lang.String" itemvalue="Application.eventloopthreadpool_unittest" />
-      <item index="151" class="java.lang.String" itemvalue="Application.inetaddress_unittest" />
-      <item index="152" class="java.lang.String" itemvalue="Application.tcpclient_reg1" />
-      <item index="153" class="java.lang.String" itemvalue="Application.tcpclient_reg2" />
-      <item index="154" class="java.lang.String" itemvalue="Application.tcpclient_reg3" />
-      <item index="155" class="java.lang.String" itemvalue="Application.timerqueue_unittest" />
-      <item index="156" class="java.lang.String" itemvalue="Application.zlibstream_unittest" />
-      <item index="157" class="java.lang.String" itemvalue="Application.Build All" />
+      <item index="0" class="java.lang.String" itemvalue="Application.Build All" />
+      <item index="1" class="java.lang.String" itemvalue="Application.mrediscli" />
+      <item index="2" class="java.lang.String" itemvalue="Application.muduo_thrift" />
+      <item index="3" class="java.lang.String" itemvalue="Application.ace_logging_client" />
+      <item index="4" class="java.lang.String" itemvalue="Application.ace_logging_proto" />
+      <item index="5" class="java.lang.String" itemvalue="Application.ace_logging_server" />
+      <item index="6" class="java.lang.String" itemvalue="Application.asio_chat_client" />
+      <item index="7" class="java.lang.String" itemvalue="Application.asio_chat_loadtest" />
+      <item index="8" class="java.lang.String" itemvalue="Application.asio_chat_server" />
+      <item index="9" class="java.lang.String" itemvalue="Application.asio_chat_server_threaded" />
+      <item index="10" class="java.lang.String" itemvalue="Application.asio_chat_server_threaded_efficient" />
+      <item index="11" class="java.lang.String" itemvalue="Application.asio_chat_server_threaded_highperformance" />
+      <item index="12" class="java.lang.String" itemvalue="Application.asio_tutorial_timer2" />
+      <item index="13" class="java.lang.String" itemvalue="Application.asio_tutorial_timer3" />
+      <item index="14" class="java.lang.String" itemvalue="Application.asio_tutorial_timer4" />
+      <item index="15" class="java.lang.String" itemvalue="Application.asio_tutorial_timer5" />
+      <item index="16" class="java.lang.String" itemvalue="Application.asio_tutorial_timer6" />
+      <item index="17" class="java.lang.String" itemvalue="Application.cdns" />
+      <item index="18" class="java.lang.String" itemvalue="Application.muduo_cdns" />
+      <item index="19" class="java.lang.String" itemvalue="Application.curl_download" />
+      <item index="20" class="java.lang.String" itemvalue="Application.mcurl" />
+      <item index="21" class="java.lang.String" itemvalue="Application.muduo_curl" />
+      <item index="22" class="java.lang.String" itemvalue="Application.fastcgi_test" />
+      <item index="23" class="java.lang.String" itemvalue="Application.filetransfer_download" />
+      <item index="24" class="java.lang.String" itemvalue="Application.filetransfer_download2" />
+      <item index="25" class="java.lang.String" itemvalue="Application.filetransfer_download3" />
+      <item index="26" class="java.lang.String" itemvalue="Application.hub" />
+      <item index="27" class="java.lang.String" itemvalue="Application.muduo_pubsub" />
+      <item index="28" class="java.lang.String" itemvalue="Application.pub" />
+      <item index="29" class="java.lang.String" itemvalue="Application.sub" />
+      <item index="30" class="java.lang.String" itemvalue="Application.idleconnection_echo" />
+      <item index="31" class="java.lang.String" itemvalue="Application.idleconnection_echo2" />
+      <item index="32" class="java.lang.String" itemvalue="Application.maxconnection_echo" />
+      <item index="33" class="java.lang.String" itemvalue="Application.memcached_footprint" />
+      <item index="34" class="java.lang.String" itemvalue="Application.multiplex_demux" />
+      <item index="35" class="java.lang.String" itemvalue="Application.multiplex_server" />
+      <item index="36" class="java.lang.String" itemvalue="Application.multiplex_server_simple" />
+      <item index="37" class="java.lang.String" itemvalue="Application.netty_discard_client" />
+      <item index="38" class="java.lang.String" itemvalue="Application.netty_discard_server" />
+      <item index="39" class="java.lang.String" itemvalue="Application.netty_echo_client" />
+      <item index="40" class="java.lang.String" itemvalue="Application.netty_echo_server" />
+      <item index="41" class="java.lang.String" itemvalue="Application.netty_echo_server2" />
+      <item index="42" class="java.lang.String" itemvalue="Application.netty_uptime" />
+      <item index="43" class="java.lang.String" itemvalue="Application.pingpong_bench" />
+      <item index="44" class="java.lang.String" itemvalue="Application.pingpong_client" />
+      <item index="45" class="java.lang.String" itemvalue="Application.pingpong_server" />
+      <item index="46" class="java.lang.String" itemvalue="Application.dummyload" />
+      <item index="47" class="java.lang.String" itemvalue="Application.plot_test" />
+      <item index="48" class="java.lang.String" itemvalue="Application.procmon" />
+      <item index="49" class="java.lang.String" itemvalue="Application.protobuf_client" />
+      <item index="50" class="java.lang.String" itemvalue="Application.protobuf_codec" />
+      <item index="51" class="java.lang.String" itemvalue="Application.protobuf_codec_all" />
+      <item index="52" class="java.lang.String" itemvalue="Application.protobuf_codec_test" />
+      <item index="53" class="java.lang.String" itemvalue="Application.protobuf_dispatcher_lite_test" />
+      <item index="54" class="java.lang.String" itemvalue="Application.protobuf_dispatcher_test" />
+      <item index="55" class="java.lang.String" itemvalue="Application.protobuf_server" />
+      <item index="56" class="java.lang.String" itemvalue="Application.query_proto" />
+      <item index="57" class="java.lang.String" itemvalue="Application.protobuf_rpc_resolver_client" />
+      <item index="58" class="java.lang.String" itemvalue="Application.protobuf_rpc_resolver_server" />
+      <item index="59" class="java.lang.String" itemvalue="Application.resolver_proto" />
+      <item index="60" class="java.lang.String" itemvalue="Application.protobuf_rpc_all" />
+      <item index="61" class="java.lang.String" itemvalue="Application.protobuf_rpc_sudoku_client" />
+      <item index="62" class="java.lang.String" itemvalue="Application.protobuf_rpc_sudoku_server" />
+      <item index="63" class="java.lang.String" itemvalue="Application.sudoku_proto" />
+      <item index="64" class="java.lang.String" itemvalue="Application.protobuf_rpc_balancer" />
+      <item index="65" class="java.lang.String" itemvalue="Application.protobuf_rpc_balancer_raw" />
+      <item index="66" class="java.lang.String" itemvalue="Application.echo_proto" />
+      <item index="67" class="java.lang.String" itemvalue="Application.protobuf_rpc_echo_client" />
+      <item index="68" class="java.lang.String" itemvalue="Application.protobuf_rpc_echo_server" />
+      <item index="69" class="java.lang.String" itemvalue="Application.roundtrip" />
+      <item index="70" class="java.lang.String" itemvalue="Application.roundtrip_udp" />
+      <item index="71" class="java.lang.String" itemvalue="Application.shorturl" />
+      <item index="72" class="java.lang.String" itemvalue="Application.simple_allinone" />
+      <item index="73" class="java.lang.String" itemvalue="Application.simple_chargen" />
+      <item index="74" class="java.lang.String" itemvalue="Application.simple_chargenclient" />
+      <item index="75" class="java.lang.String" itemvalue="Application.simple_daytime" />
+      <item index="76" class="java.lang.String" itemvalue="Application.simple_discard" />
+      <item index="77" class="java.lang.String" itemvalue="Application.simple_echo" />
+      <item index="78" class="java.lang.String" itemvalue="Application.simple_time" />
+      <item index="79" class="java.lang.String" itemvalue="Application.simple_timeclient" />
+      <item index="80" class="java.lang.String" itemvalue="Application.balancer" />
+      <item index="81" class="java.lang.String" itemvalue="Application.socks4a" />
+      <item index="82" class="java.lang.String" itemvalue="Application.tcprelay" />
+      <item index="83" class="java.lang.String" itemvalue="Application.sudoku_client_batch" />
+      <item index="84" class="java.lang.String" itemvalue="Application.sudoku_client_pipeline" />
+      <item index="85" class="java.lang.String" itemvalue="Application.sudoku_loadtest" />
+      <item index="86" class="java.lang.String" itemvalue="Application.sudoku_solver_basic" />
+      <item index="87" class="java.lang.String" itemvalue="Application.sudoku_solver_hybrid" />
+      <item index="88" class="java.lang.String" itemvalue="Application.sudoku_solver_multiloop" />
+      <item index="89" class="java.lang.String" itemvalue="Application.sudoku_solver_prod" />
+      <item index="90" class="java.lang.String" itemvalue="Application.sudoku_solver_threadpool" />
+      <item index="91" class="java.lang.String" itemvalue="Application.sudoku_stat_unittest" />
+      <item index="92" class="java.lang.String" itemvalue="Application.twisted_finger01" />
+      <item index="93" class="java.lang.String" itemvalue="Application.twisted_finger02" />
+      <item index="94" class="java.lang.String" itemvalue="Application.twisted_finger03" />
+      <item index="95" class="java.lang.String" itemvalue="Application.twisted_finger04" />
+      <item index="96" class="java.lang.String" itemvalue="Application.twisted_finger05" />
+      <item index="97" class="java.lang.String" itemvalue="Application.twisted_finger06" />
+      <item index="98" class="java.lang.String" itemvalue="Application.twisted_finger07" />
+      <item index="99" class="java.lang.String" itemvalue="Application.wordcount_hasher" />
+      <item index="100" class="java.lang.String" itemvalue="Application.wordcount_receiver" />
+      <item index="101" class="java.lang.String" itemvalue="Application.zeromq_local_lat" />
+      <item index="102" class="java.lang.String" itemvalue="Application.zeromq_remote_lat" />
+      <item index="103" class="java.lang.String" itemvalue="Application.muduo_base" />
+      <item index="104" class="java.lang.String" itemvalue="Application.muduo_base_cpp11" />
+      <item index="105" class="java.lang.String" itemvalue="Application.asynclogging_test" />
+      <item index="106" class="java.lang.String" itemvalue="Application.atomic_unittest" />
+      <item index="107" class="java.lang.String" itemvalue="Application.blockingqueue_bench" />
+      <item index="108" class="java.lang.String" itemvalue="Application.blockingqueue_cpp11_test" />
+      <item index="109" class="java.lang.String" itemvalue="Application.blockingqueue_test" />
+      <item index="110" class="java.lang.String" itemvalue="Application.boundedblockingqueue_test" />
+      <item index="111" class="java.lang.String" itemvalue="Application.date_unittest" />
+      <item index="112" class="java.lang.String" itemvalue="Application.exception_test" />
+      <item index="113" class="java.lang.String" itemvalue="Application.fileutil_test" />
+      <item index="114" class="java.lang.String" itemvalue="Application.fork_test" />
+      <item index="115" class="java.lang.String" itemvalue="Application.gzipfile_test" />
+      <item index="116" class="java.lang.String" itemvalue="Application.logfile_test" />
+      <item index="117" class="java.lang.String" itemvalue="Application.logging_test" />
+      <item index="118" class="java.lang.String" itemvalue="Application.logstream_bench" />
+      <item index="119" class="java.lang.String" itemvalue="Application.logstream_test" />
+      <item index="120" class="java.lang.String" itemvalue="Application.mutex_test" />
+      <item index="121" class="java.lang.String" itemvalue="Application.processinfo_test" />
+      <item index="122" class="java.lang.String" itemvalue="Application.singleton_test" />
+      <item index="123" class="java.lang.String" itemvalue="Application.singleton_threadlocal_test" />
+      <item index="124" class="java.lang.String" itemvalue="Application.thread_bench" />
+      <item index="125" class="java.lang.String" itemvalue="Application.thread_test" />
+      <item index="126" class="java.lang.String" itemvalue="Application.threadlocal_test" />
+      <item index="127" class="java.lang.String" itemvalue="Application.threadlocalsingleton_test" />
+      <item index="128" class="java.lang.String" itemvalue="Application.threadpool_test" />
+      <item index="129" class="java.lang.String" itemvalue="Application.timestamp_unittest" />
+      <item index="130" class="java.lang.String" itemvalue="Application.timezone_unittest" />
+      <item index="131" class="java.lang.String" itemvalue="Application.muduo_net" />
+      <item index="132" class="java.lang.String" itemvalue="Application.muduo_net_cpp11" />
+      <item index="133" class="java.lang.String" itemvalue="Application.httprequest_unittest" />
+      <item index="134" class="java.lang.String" itemvalue="Application.httpserver_test" />
+      <item index="135" class="java.lang.String" itemvalue="Application.muduo_http" />
+      <item index="136" class="java.lang.String" itemvalue="Application.inspector_test" />
+      <item index="137" class="java.lang.String" itemvalue="Application.muduo_inspect" />
+      <item index="138" class="java.lang.String" itemvalue="Application.muduo_protobuf_codec" />
+      <item index="139" class="java.lang.String" itemvalue="Application.muduo_protobuf_codec_cpp11" />
+      <item index="140" class="java.lang.String" itemvalue="Application.muduo_protorpc" />
+      <item index="141" class="java.lang.String" itemvalue="Application.muduo_protorpc_wire" />
+      <item index="142" class="java.lang.String" itemvalue="Application.muduo_protorpc_wire_cpp11" />
+      <item index="143" class="java.lang.String" itemvalue="Application.protobuf_rpc_wire_test" />
+      <item index="144" class="java.lang.String" itemvalue="Application.buffer_cpp11_unittest" />
+      <item index="145" class="java.lang.String" itemvalue="Application.buffer_unittest" />
+      <item index="146" class="java.lang.String" itemvalue="Application.channel_test" />
+      <item index="147" class="java.lang.String" itemvalue="Application.echoclient_unittest" />
+      <item index="148" class="java.lang.String" itemvalue="Application.echoserver_unittest" />
+      <item index="149" class="java.lang.String" itemvalue="Application.eventloop_unittest" />
+      <item index="150" class="java.lang.String" itemvalue="Application.eventloopthread_unittest" />
+      <item index="151" class="java.lang.String" itemvalue="Application.eventloopthreadpool_unittest" />
+      <item index="152" class="java.lang.String" itemvalue="Application.inetaddress_unittest" />
+      <item index="153" class="java.lang.String" itemvalue="Application.tcpclient_reg1" />
+      <item index="154" class="java.lang.String" itemvalue="Application.tcpclient_reg2" />
+      <item index="155" class="java.lang.String" itemvalue="Application.tcpclient_reg3" />
+      <item index="156" class="java.lang.String" itemvalue="Application.timerqueue_unittest" />
+      <item index="157" class="java.lang.String" itemvalue="Application.zlibstream_unittest" />
     </list>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
@@ -1240,60 +1313,61 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="ade97acc-eed7-40cc-80b1-094705ca7164" name="Default" comment="" />
-      <created>1504229281897</created>
+      <changelist id="8376ec33-d94f-47eb-be87-8e18b830137e" name="Default" comment="" />
+      <created>1506664672240</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1504229281897</updated>
-      <workItem from="1504229284166" duration="10440000" />
+      <updated>1506664672240</updated>
+      <workItem from="1506664674884" duration="3722000" />
+      <workItem from="1506668478771" duration="134000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10440000" />
+    <option name="totallyTimeSpent" value="3856000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="274" y="510" width="1400" height="864" extended-state="0" />
+    <frame x="65" y="24" width="1833" height="886" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24986361" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32810616" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="CMake" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33662146" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33840305" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="CMake" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3220748" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39927623" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3296433" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32869786" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34639695" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39949432" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293124" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32869786" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="CMake" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293124" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3220748" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18908697" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34639695" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39927623" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.39949432" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1306,359 +1380,203 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
-          <url>file://$PROJECT_DIR$/muduo/base/ThreadPool.cc</url>
-          <line>5</line>
+          <url>file://$PROJECT_DIR$/muduo/base/tests/Thread_test.cc</url>
+          <line>57</line>
+          <option name="timeStamp" value="3" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
-          <url>file://$PROJECT_DIR$/muduo/base/Mutex.h</url>
-          <line>8</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
-          <url>file://$PROJECT_DIR$/examples/simple/echo/main.cc</url>
-          <line>13</line>
-          <option name="timeStamp" value="2" />
+          <url>file://$PROJECT_DIR$/muduo/base/tests/Thread_test.cc</url>
+          <line>76</line>
+          <option name="timeStamp" value="5" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="3" />
+      <option name="time" value="6" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/muduo/net/http/HttpContext.cc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-851">
-          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/muduo/net/Channel.cc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1136">
-          <caret line="23" column="43" lean-forward="true" selection-start-line="23" selection-start-column="43" selection-end-line="23" selection-end-column="43" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/muduo/net/Connector.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="32" column="45" lean-forward="false" selection-start-line="32" selection-start-column="45" selection-end-line="32" selection-end-column="45" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/muduo/net/Buffer.cc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="79">
-          <caret line="16" column="22" lean-forward="true" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/examples/curl/download.cc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="13" column="34" lean-forward="false" selection-start-line="13" selection-start-column="34" selection-end-line="13" selection-end-column="34" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/examples/curl/Curl.cc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="107" column="8" lean-forward="false" selection-start-line="107" selection-start-column="8" selection-end-line="107" selection-end-column="8" />
-          <folding>
-            <element signature="e#0#31#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/examples/curl/Curl.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="155">
-          <caret line="69" column="27" lean-forward="false" selection-start-line="69" selection-start-column="11" selection-end-line="69" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/muduo/base/AsyncLogging.cc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1019">
-          <caret line="15" column="51" lean-forward="true" selection-start-line="15" selection-start-column="51" selection-end-line="15" selection-end-column="51" />
-          <folding>
-            <element signature="e#0#36#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/muduo/base/Date.cc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-89">
-          <caret line="23" column="26" lean-forward="true" selection-start-line="23" selection-start-column="26" selection-end-line="23" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/muduo/base/ThreadPool.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/muduo/base/CountDownLatch.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/muduo/base/CountDownLatch.cc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="10" lean-forward="false" selection-start-line="18" selection-start-column="10" selection-end-line="18" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/muduo/net/EventLoop.cc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="76" column="7" lean-forward="false" selection-start-line="76" selection-start-column="7" selection-end-line="76" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/muduo/base/Logging.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="346">
-          <caret line="131" column="0" lean-forward="false" selection-start-line="131" selection-start-column="0" selection-end-line="131" selection-end-column="0" />
-          <folding>
-            <element signature="e#59#92#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/muduo/base/ThreadPool.cc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="149" column="24" lean-forward="false" selection-start-line="149" selection-start-column="24" selection-end-line="149" selection-end-column="24" />
-          <folding>
-            <element signature="e#160#194#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/muduo/net/Acceptor.cc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="241">
-          <caret line="61" column="47" lean-forward="false" selection-start-line="61" selection-start-column="47" selection-end-line="61" selection-end-column="47" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="946">
-          <caret line="75" column="30" lean-forward="true" selection-start-line="75" selection-start-column="30" selection-end-line="75" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///usr/include/boost/noncopyable.hpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="28" column="4" lean-forward="true" selection-start-line="28" selection-start-column="4" selection-end-line="28" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/examples/simple/echo/echo.cc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="61" lean-forward="false" selection-start-line="16" selection-start-column="61" selection-end-line="16" selection-end-column="61" />
-          <folding>
-            <element signature="e#0#17#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/examples/simple/echo/main.cc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="13" lean-forward="false" selection-start-line="0" selection-start-column="13" selection-end-line="0" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/examples/simple/echo/echo.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="12" lean-forward="false" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/muduo/net/tests/EchoServer_unittest.cc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="76" column="31" lean-forward="true" selection-start-line="76" selection-start-column="31" selection-end-line="76" selection-end-column="31" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/examples/simple/daytime/daytime.cc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="145">
-          <caret line="12" column="8" lean-forward="true" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
-          <folding>
-            <element signature="e#0#20#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/examples/simple/daytime/daytime.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="18" lean-forward="false" selection-start-line="21" selection-start-column="18" selection-end-line="21" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/muduo/net/TcpServer.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="20" column="11" lean-forward="false" selection-start-line="20" selection-start-column="11" selection-end-line="20" selection-end-column="11" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///usr/include/boost/shared_ptr.hpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///usr/include/assert.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="349">
-          <caret line="90" column="9" lean-forward="false" selection-start-line="90" selection-start-column="9" selection-end-line="90" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/muduo/base/Mutex.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="501">
-          <caret line="68" column="39" lean-forward="false" selection-start-line="68" selection-start-column="39" selection-end-line="68" selection-end-column="39" />
-          <folding>
-            <element signature="e#377#653#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/muduo/base/tests/BlockingQueue_bench.cc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="145">
-          <caret line="24" column="48" lean-forward="false" selection-start-line="24" selection-start-column="48" selection-end-line="24" selection-end-column="48" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/examples/Test.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/examples/CMakeLists.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="148">
-          <caret line="31" column="24" lean-forward="false" selection-start-line="31" selection-start-column="24" selection-end-line="31" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/muduo/net/SocketsOps.cc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2531">
-          <caret line="110" column="43" lean-forward="false" selection-start-line="110" selection-start-column="43" selection-end-line="110" selection-end-column="43" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/examples/netty/echo/server.cc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="466">
-          <caret line="80" column="2" lean-forward="false" selection-start-line="80" selection-start-column="2" selection-end-line="80" selection-end-column="2" />
-          <folding>
-            <element signature="e#0#32#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/examples/netty/echo/CMakeLists.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="50" lean-forward="false" selection-start-line="7" selection-start-column="41" selection-end-line="7" selection-end-column="50" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/muduo/base/CMakeLists.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="214">
-          <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/muduo/base/Thread.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="35" column="55" lean-forward="true" selection-start-line="35" selection-start-column="55" selection-end-line="35" selection-end-column="55" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/examples/simple/daytime/main.cc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="12" column="35" lean-forward="true" selection-start-line="12" selection-start-column="35" selection-end-line="12" selection-end-column="35" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/muduo/base/CurrentThread.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="25" column="8" lean-forward="false" selection-start-line="25" selection-start-column="8" selection-end-line="25" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/muduo/base/tests/Thread_test.cc">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="58" column="16" lean-forward="true" selection-start-line="58" selection-start-column="16" selection-end-line="58" selection-end-column="16" />
+        <state relative-caret-position="1035">
+          <caret line="69" column="24" lean-forward="true" selection-start-line="69" selection-start-column="24" selection-end-line="69" selection-end-column="24" />
           <folding>
             <element signature="e#0#30#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/c++/4.4/bits/stringfwd.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="825">
+          <caret line="55" column="32" lean-forward="false" selection-start-line="55" selection-start-column="32" selection-end-line="55" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/unistd.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6900">
+          <caret line="460" column="11" lean-forward="false" selection-start-line="460" selection-start-column="11" selection-end-line="460" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/muduo/base/Thread.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="35" lean-forward="false" selection-start-line="23" selection-start-column="35" selection-end-line="23" selection-end-column="35" />
+          <folding>
+            <element signature="e#652#713#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/sched.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="36" column="10" lean-forward="true" selection-start-line="36" selection-start-column="10" selection-end-line="36" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/x86_64-linux-gnu/bits/types.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2130">
+          <caret line="142" column="24" lean-forward="false" selection-start-line="142" selection-start-column="24" selection-end-line="142" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/x86_64-linux-gnu/bits/pthreadtypes.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="735">
+          <caret line="49" column="26" lean-forward="false" selection-start-line="49" selection-start-column="26" selection-end-line="49" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/muduo/base/Thread.cc">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="346">
-          <caret line="204" column="20" lean-forward="true" selection-start-line="204" selection-start-column="20" selection-end-line="204" selection-end-column="20" />
+        <state relative-caret-position="3120">
+          <caret line="208" column="56" lean-forward="false" selection-start-line="208" selection-start-column="56" selection-end-line="208" selection-end-column="56" />
+          <folding>
+            <element signature="e#160#190#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/pthread.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3990">
+          <caret line="266" column="17" lean-forward="false" selection-start-line="266" selection-start-column="17" selection-end-line="266" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/muduo/base/Atomic.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="596">
+          <caret line="90" column="25" lean-forward="true" selection-start-line="90" selection-start-column="25" selection-end-line="90" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/muduo/base/CurrentThread.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="21" column="13" lean-forward="false" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/unistd.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6900">
+          <caret line="460" column="11" lean-forward="false" selection-start-line="460" selection-start-column="11" selection-end-line="460" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/pthread.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3990">
+          <caret line="266" column="17" lean-forward="false" selection-start-line="266" selection-start-column="17" selection-end-line="266" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/x86_64-linux-gnu/bits/pthreadtypes.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="735">
+          <caret line="49" column="26" lean-forward="false" selection-start-line="49" selection-start-column="26" selection-end-line="49" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/muduo/base/Thread.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="35" lean-forward="false" selection-start-line="23" selection-start-column="35" selection-end-line="23" selection-end-column="35" />
+          <folding>
+            <element signature="e#652#713#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/x86_64-linux-gnu/bits/types.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2130">
+          <caret line="142" column="24" lean-forward="false" selection-start-line="142" selection-start-column="24" selection-end-line="142" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/sched.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="36" column="10" lean-forward="false" selection-start-line="36" selection-start-column="10" selection-end-line="36" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/c++/4.4/bits/stringfwd.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="825">
+          <caret line="55" column="32" lean-forward="false" selection-start-line="55" selection-start-column="32" selection-end-line="55" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/muduo/base/Thread.cc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3120">
+          <caret line="208" column="56" lean-forward="false" selection-start-line="208" selection-start-column="56" selection-end-line="208" selection-end-column="56" />
+          <folding>
+            <element signature="e#160#190#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/muduo/base/tests/Thread_test.cc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1035">
+          <caret line="69" column="24" lean-forward="false" selection-start-line="69" selection-start-column="24" selection-end-line="69" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
           <folding />
         </state>
       </provider>
