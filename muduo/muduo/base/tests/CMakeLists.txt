@@ -1,4 +1,4 @@
-add_executable(asynclogging_test AsyncLogging_test.cc)
+add_executable(asynclogging_test AsyncLogging_test.cc chen_testThread.cc chen_testTimeOutMutex.cc chen_testMutexCon.cc)
 target_link_libraries(asynclogging_test muduo_base)
 
 add_executable(atomic_unittest Atomic_unittest.cc)
@@ -89,3 +89,8 @@ add_executable(timezone_unittest TimeZone_unittest.cc)
 target_link_libraries(timezone_unittest muduo_base)
 add_test(NAME timezone_unittest COMMAND timezone_unittest)
 
+add_executable(chen_testThread chen_testThread.cc)
+target_link_libraries(chen_testThread muduo_base)
+
+add_executable(chen_testMutexCon chen_testMutexCon.cc)
+target_link_libraries(chen_testMutexCon muduo_base)
