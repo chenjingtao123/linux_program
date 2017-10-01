@@ -37,6 +37,10 @@ namespace detail
 
 pid_t gettid()
 {
+    /**
+     * syscall(SYS_gettid)得到的是进程的pid，在内核中，每个线程都有自己的PID，要得到线程的PID,必须用syscall(SYS_gettid);
+     * pthread_self函数获取的是线程ID，线程ID在某进程中是唯一的，在不同的进程中创建的线程可能出现ID值相同的情况。
+     */
   return static_cast<pid_t>(::syscall(SYS_gettid));
 }
 
