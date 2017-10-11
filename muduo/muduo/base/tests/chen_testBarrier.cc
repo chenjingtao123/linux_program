@@ -6,6 +6,7 @@
 #include "pthread.h"
 #include "limits.h"
 #include "sys/time.h"
+#include "algorithm"
 
 #define NTHR 2
 #define NUMNUM 80
@@ -45,27 +46,31 @@ void merge(){
     printf("the total=%ld\n",total);
 }
 int main(){
-    pthread_t  tid= static_cast<pthread_t>(0);
+//    pthread_t  tid= static_cast<pthread_t>(0);
+//
+//    srand(1);
+//    for(int i=0;i<NUMNUM;i++){
+//        nums[i]=(random()%10);
+//    }
+//    pthread_barrier_init(&barrier,NULL,NTHR+1);
+//
+//    int err=0;
+//    for(int i=0;i<NTHR;i++){
+//       // err=pthread_create(&tid,NULL,thr_fn,&arg);
+//
+//        if(err){
+//            printf("create thread fails\n");
+//            abort();
+//        }
+//    }
+//
+//    pthread_barrier_wait(&barrier);
+//
+//    merge();
 
-    srand(1);
-    for(int i=0;i<NUMNUM;i++){
-        nums[i]=(random()%10);
-    }
-    pthread_barrier_init(&barrier,NULL,NTHR+1);
-
-    int err=0;
-    for(int i=0;i<NTHR;i++){
-       // err=pthread_create(&tid,NULL,thr_fn,&arg);
-
-        if(err){
-            printf("create thread fails\n");
-            abort();
-        }
-    }
-
-    pthread_barrier_wait(&barrier);
-
-    merge();
+    int a=1,b=2;
+    std::swap(a,b);
+    printf("a=%d b=%d",a,b);
 
 }
 
