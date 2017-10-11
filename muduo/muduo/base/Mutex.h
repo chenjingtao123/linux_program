@@ -28,7 +28,7 @@ __END_DECLS
                          __assert_perror_fail (errnum, __FILE__, __LINE__, __func__);})
 
 #else  // CHECK_PTHREAD_RETURN_VALUE
-
+//检查是否出错 ，__typeof__定义与ret类型相同的errnum，大多数情况下不执行if语句
 #define MCHECK(ret) ({ __typeof__ (ret) errnum = (ret);         \
                        assert(errnum == 0); (void) errnum;})
 
